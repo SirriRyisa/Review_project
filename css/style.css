@@ -6,7 +6,7 @@ Body{
       text-align: center;
       font-size: 24px;
 }
-#img-div {
+#img-div{
     text-align: center;
     display: block;
     filter: grayscale(100%);
@@ -16,7 +16,7 @@ Body{
     margin: 15px;  
  }
  
- img {
+ img{
    padding-top: 10px;
    max-width: 100%; 
  }
@@ -35,7 +35,7 @@ Body{
       font-size: 18px;
       max-width: fit-content;
   }
-  
+
   #final-stage{
       margin-top: 10px;
       margin-bottom: 10px;
